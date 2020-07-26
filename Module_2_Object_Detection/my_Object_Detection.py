@@ -2,7 +2,7 @@
 """
 Created on Tue May 19 19:10:14 2020
 
-@author: Tal cohen
+@author: Tal
 """
 
 import torch
